@@ -19,5 +19,4 @@ Her biri farklı veri setleri ve yaklaşımlar ile duygu analizi ve metin sını
 Gerekli paketleri yüklemek için:
 
 ```bash
-pip install -r requirements.txt
 
